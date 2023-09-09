@@ -1,0 +1,12 @@
+.block {
+
+    height: 150px;
+    width: 300px;
+    background-color: #1c1a1d;
+    border-radius: 10px;
+    box-shadow: 3px 3px #00000055;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}

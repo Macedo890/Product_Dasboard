@@ -1,3 +1,5 @@
+import "../database.json";
+
 export default function Product() {
   return (
     <section>

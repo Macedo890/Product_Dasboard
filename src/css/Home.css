@@ -1,0 +1,12 @@
+.main_body {
+
+    padding: 0px 40px;
+
+}
+
+.BlockContainer {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
